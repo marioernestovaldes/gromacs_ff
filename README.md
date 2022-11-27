@@ -1,4 +1,8 @@
 # gromacs_ff
+
+** check http://zhenglz.blogspot.com/2017/05/fixing-bugs-in-ff14sb-port-for-gromacs.html to fix bugs on amber14sb_parmbsc1.ff
+
+
 Trusted force field files for gromacs in this repo:
 
 - https://github.com/intbio/gromacs_ff/tree/master/amber14sb_parmbsc1.ff AMBER ff with parmbsc1 corrections to simulate DNA from Gromacs web-site
