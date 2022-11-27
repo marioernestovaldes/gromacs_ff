@@ -742,6 +742,8 @@ H4  C2  N*           1   119.100     418.400
 
 [ dihedraltypes ] ; improper
 ;i  j   k  l     func      phase      kd      pn
+NA  CW  CC  CT       4      180.00     4.60240     2     ;;; HID force field added
+NA  CV  CC  CT       4      180.00     4.60240     2     ;;; HID force field added
 Br  CA  CA  CA       4      180.00     4.60240     2
 C4  N2  CA  NC       4      180.00     4.60240     2
 CA  CA  CA  2C       4      180.00     4.60240     2
